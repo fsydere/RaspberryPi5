@@ -1,0 +1,22 @@
+## _v0.1.0_ Getting started with R_Pi 5.
+
+- Learn how to use GPIO.
+- Change the boot directory to boot from SSD.
+- Search for useful projects
+  - Note here new Projects
+
+## _v0.2.0 Use R_Pi5 as NAS
+
+- Try to use R_Pi5 as NAS. it will use 1TB SSD.
+- Send and Receive data from NAS.
+
+## v0.3.0 Use R_Pi5 as Cloud.
+
+- Learn how to do that.
+
+Main purpose: Access to R_Pi5 From everywhere.
+
+## v1.0.0 Create your Linux for R_Pi5 
+
+- Use YOCTO to create own image and complete all above in that image.
+  
